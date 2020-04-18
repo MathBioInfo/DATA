@@ -1,0 +1,8 @@
+questionable(90),integrase,transposase,recombinase,lysis,envelope
+incomplete(60),transposase,lysis,envelope,terminase
+questionable(90),integrase,recombinase,terminase,head,capsid
+questionable(90),integrase,lysis,tail,transposase,fiber,recombinase
+questionable(90),recombinase,tail,envelope,lysin,lysis
+incomplete(40),integrase,flippase,tail
+incomplete(10),NA
+incomplete(30),transposase

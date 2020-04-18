@@ -1,0 +1,7 @@
+intact(100),integrase,transposase,recombinase,lysis,envelope,terminase
+incomplete(60),integrase,transposase,tail,recombinase
+questionable(90),recombinase,tail,envelope,lysin,lysis
+incomplete(40),integrase,flippase,tail
+incomplete(20),integrase
+incomplete(30),transposase
+intact(150),transposase,lysin,lysis,envelope,head,capsid,tail,fiber

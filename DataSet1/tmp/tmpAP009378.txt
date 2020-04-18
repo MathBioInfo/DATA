@@ -1,0 +1,2 @@
+intact(150),integrase,lysin,head,capsid,tail,transposase
+incomplete(30),tail,transposase

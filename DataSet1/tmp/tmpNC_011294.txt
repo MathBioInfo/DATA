@@ -1,0 +1,3 @@
+incomplete(60),integrase,lysis,tail
+incomplete(20),lysin
+intact(150),transposase,tail,plate,capsid,portal,terminase,head,integrase

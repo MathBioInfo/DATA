@@ -1,0 +1,7 @@
+intact(120),integrase,transposase,recombinase,lysis,envelope,fiber
+intact(120),integrase,terminase,portal,plate,tail,recombinase,envelope
+intact(100),integrase,recombinase,lysis,tail,transposase,fiber
+intact(130),recombinase,tail,envelope,lysin,lysis,transposase,integrase
+incomplete(40),integrase,flippase,tail
+incomplete(20),integrase
+incomplete(30),transposase
