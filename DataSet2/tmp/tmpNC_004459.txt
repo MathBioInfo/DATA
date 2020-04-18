@@ -1,0 +1,2 @@
+intact(120),tail,plate
+incomplete(60),integrase,transposase,head

@@ -1,0 +1,3 @@
+incomplete(50),transposase
+incomplete(60),terminase,portal,protease,capsid,head
+questionable(80),transposase

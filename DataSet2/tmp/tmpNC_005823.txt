@@ -1,0 +1,4 @@
+incomplete(10),NA
+incomplete(10),NA
+incomplete(30),lysis
+incomplete(40),tail,plate

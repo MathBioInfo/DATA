@@ -1,0 +1,7 @@
+incomplete(20),integrase
+intact(133),integrase
+intact(150),tail,plate,head
+intact(150),integrase,recombinase,transposase,terminase,portal,head,capsid,tail
+intact(141),NA
+incomplete(50),integrase,capsid,terminase,head
+intact(96),integrase,coat

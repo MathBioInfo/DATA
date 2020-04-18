@@ -1,0 +1,2 @@
+intact(120),transposase,integrase
+questionable(80),transposase,capsid,tail

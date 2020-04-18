@@ -1,0 +1,5 @@
+intact(102),integrase,plate,protease
+incomplete(50),integrase,terminase
+questionable(80),transposase,lysin,tail
+incomplete(40),integrase
+intact(93),terminase,integrase

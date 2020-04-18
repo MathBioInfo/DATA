@@ -1,0 +1,2 @@
+incomplete(40),coat,virion
+incomplete(30),terminase

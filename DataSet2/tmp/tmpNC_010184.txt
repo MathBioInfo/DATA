@@ -1,0 +1,3 @@
+incomplete(40),tail,coat
+intact(100),lysin,tail,capsid,head,portal,integrase
+intact(120),tail,head,capsid,protease,portal,integrase

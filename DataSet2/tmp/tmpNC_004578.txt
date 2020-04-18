@@ -1,0 +1,6 @@
+incomplete(50),tail,integrase,recombinase
+incomplete(40),tail
+intact(150),integrase,tail,plate,head,terminase,lysis
+incomplete(30),head,integrase
+incomplete(50),tail,transposase,recombinase
+questionable(70),protease,tail,integrase

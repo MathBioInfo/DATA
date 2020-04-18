@@ -1,0 +1,2 @@
+incomplete(60),integrase,transposase
+questionable(80),tail,capsid,head,terminase

@@ -1,0 +1,2 @@
+incomplete(40),tail,integrase
+questionable(70),virion,portal,terminase,integrase

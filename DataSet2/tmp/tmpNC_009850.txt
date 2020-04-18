@@ -1,0 +1,2 @@
+incomplete(30),protease
+intact(150),tail,plate,capsid,portal,virion

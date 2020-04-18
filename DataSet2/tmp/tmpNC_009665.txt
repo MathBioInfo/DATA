@@ -1,0 +1,5 @@
+questionable(90),integrase,portal,head,recombinase,tail,plate
+incomplete(40),transposase,integrase
+intact(150),integrase,transposase,lysin,portal,virion,protease,head,tail,plate
+incomplete(30),integrase
+incomplete(30),integrase

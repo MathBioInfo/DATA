@@ -1,0 +1,3 @@
+incomplete(20),integrase
+intact(130),terminase,capsid,tail,portal,head,virion,integrase
+intact(100),terminase,capsid,tail,portal,head,virion

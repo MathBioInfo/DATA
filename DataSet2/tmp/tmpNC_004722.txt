@@ -1,0 +1,5 @@
+incomplete(50),tail,transposase,recombinase
+intact(144),recombinase
+intact(150),head
+incomplete(20),recombinase
+incomplete(40),transposase,plate

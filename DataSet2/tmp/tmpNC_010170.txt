@@ -1,0 +1,3 @@
+incomplete(30),integrase,recombinase
+intact(110),portal,head,tail,plate,lysin
+intact(120),capsid,tail,plate

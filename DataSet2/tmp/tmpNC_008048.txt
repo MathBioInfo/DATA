@@ -1,0 +1,4 @@
+intact(100),transposase,protease
+incomplete(20),transposase
+incomplete(50),transposase,recombinase,integrase
+incomplete(40),tail,portal

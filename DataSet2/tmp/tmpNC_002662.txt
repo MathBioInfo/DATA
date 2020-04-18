@@ -1,0 +1,6 @@
+intact(139),terminase,integrase
+intact(144),integrase,terminase,portal,protease,capsid,tail,lysin
+intact(144),integrase,protease
+intact(140),integrase,terminase,portal,protease,capsid,tail,lysin
+intact(142),lysin,tail,capsid,protease,portal,terminase,integrase
+intact(143),transposase,integrase

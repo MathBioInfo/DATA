@@ -1,0 +1,2 @@
+questionable(70),integrase,transposase,head
+incomplete(60),plate,tail,transposase,lysin,integrase

@@ -1,0 +1,3 @@
+incomplete(20),tail
+incomplete(60),terminase,portal,protease,capsid,tail
+questionable(90),terminase,portal,protease,capsid,tail,transposase

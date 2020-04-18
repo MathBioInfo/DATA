@@ -1,0 +1,3 @@
+incomplete(50),integrase,portal,head
+incomplete(30),terminase,integrase
+intact(120),tail,plate,head,portal,terminase,recombinase

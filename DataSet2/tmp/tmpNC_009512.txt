@@ -1,0 +1,2 @@
+questionable(90),integrase,tail,capsid,head,portal
+intact(120),tail,head,portal,integrase

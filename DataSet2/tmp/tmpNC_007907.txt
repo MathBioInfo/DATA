@@ -1,0 +1,5 @@
+incomplete(40),integrase,tail,plate
+incomplete(40),plate,integrase
+incomplete(30),tail,recombinase
+incomplete(10),NA
+incomplete(30),transposase,head

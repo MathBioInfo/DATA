@@ -1,0 +1,3 @@
+intact(102),NA
+questionable(90),recombinase,tail,head,capsid,portal
+intact(93),head

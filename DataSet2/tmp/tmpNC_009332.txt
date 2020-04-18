@@ -1,0 +1,4 @@
+intact(110),integrase,terminase,capsid,tail
+intact(109),integrase,terminase,plate,lysin
+intact(105),tail,terminase,integrase
+incomplete(60),protease,recombinase,integrase

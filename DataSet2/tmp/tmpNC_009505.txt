@@ -1,0 +1,4 @@
+intact(110),transposase
+questionable(80),terminase,portal,head,tail
+questionable(70),transposase
+incomplete(50),transposase

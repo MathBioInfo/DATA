@@ -1,0 +1,4 @@
+intact(100),transposase,envelope
+questionable(90),transposase,lysin
+incomplete(60),transposase,tail,lysis
+incomplete(30),transposase,tail

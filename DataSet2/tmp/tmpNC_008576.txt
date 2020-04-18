@@ -1,0 +1,12 @@
+incomplete(50),tail,terminase,portal,head
+incomplete(30),head,tail
+questionable(70),terminase,portal,head,tail,fiber
+intact(150),transposase,tail
+intact(100),fiber,tail,head,portal,terminase,integrase
+intact(100),transposase,fiber,tail,head,portal,terminase
+incomplete(60),transposase,head
+intact(110),transposase,fiber,tail,virion,head,portal,terminase
+incomplete(20),tail
+questionable(80),fiber,tail,head,portal,terminase
+questionable(70),integrase,recombinase,transposase
+intact(110),fiber,tail,head,portal,terminase

@@ -1,0 +1,4 @@
+incomplete(20),lysis
+incomplete(50),integrase,transposase,terminase
+incomplete(30),transposase
+incomplete(20),protease

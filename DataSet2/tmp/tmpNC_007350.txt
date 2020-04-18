@@ -1,0 +1,5 @@
+incomplete(20),protease
+incomplete(40),transposase,integrase
+incomplete(10),NA
+incomplete(10),NA
+incomplete(20),integrase

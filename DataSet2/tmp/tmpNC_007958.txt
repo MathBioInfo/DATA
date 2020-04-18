@@ -1,0 +1,4 @@
+incomplete(10),NA
+incomplete(60),terminase,head,tail
+incomplete(30),tail
+incomplete(10),NA

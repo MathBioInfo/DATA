@@ -1,0 +1,3 @@
+intact(130),portal,virion,head,tail
+intact(130),portal,head,virion,tail
+incomplete(40),portal

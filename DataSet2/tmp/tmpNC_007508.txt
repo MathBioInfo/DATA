@@ -1,0 +1,2 @@
+intact(128),coat,integrase,transposase
+incomplete(40),tail,integrase

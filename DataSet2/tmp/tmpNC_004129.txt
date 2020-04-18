@@ -1,0 +1,5 @@
+intact(110),tail,plate,protease
+intact(140),integrase,terminase,head,plate,tail,lysis
+incomplete(40),integrase,tail,lysis
+intact(140),lysis,tail,virion,capsid,head,portal,transposase
+incomplete(40),transposase,head,virion

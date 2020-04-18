@@ -1,0 +1,4 @@
+intact(150),transposase,portal,terminase,capsid,head,tail
+questionable(85),transposase,recombinase,coat,integrase
+intact(130),integrase,plate,tail,recombinase,head,portal,transposase
+incomplete(40),integrase,transposase,tail

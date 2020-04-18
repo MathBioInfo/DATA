@@ -1,0 +1,5 @@
+intact(100),portal,head,capsid,tail,plate
+questionable(90),integrase,terminase,portal,capsid,tail,head
+intact(110),terminase,portal,protease,capsid,tail,head
+incomplete(40),tail,integrase
+intact(130),transposase,head,tail,protease,terminase,coat,integrase

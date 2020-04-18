@@ -1,0 +1,4 @@
+questionable(87),integrase,protease
+intact(128),tail,integrase,terminase,lysin
+intact(129),lysin,plate,terminase,recombinase,integrase
+incomplete(20),integrase

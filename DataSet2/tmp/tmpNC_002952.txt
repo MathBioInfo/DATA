@@ -1,0 +1,4 @@
+intact(109),NA
+incomplete(40),transposase,head
+intact(110),tail,head,portal,integrase
+intact(124),tail,head,protease,portal,terminase,integrase

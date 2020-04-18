@@ -1,0 +1,2 @@
+intact(150),transposase,tail,head,terminase,capsid,portal,integrase
+intact(150),tail,head,terminase,capsid,portal,integrase,transposase

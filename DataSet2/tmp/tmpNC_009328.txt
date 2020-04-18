@@ -1,0 +1,3 @@
+incomplete(30),transposase,head
+questionable(90),lysin,tail,capsid,portal
+incomplete(30),head,integrase

@@ -1,0 +1,2 @@
+intact(100),portal,virion,head,tail
+intact(110),terminase,portal,head,capsid,tail

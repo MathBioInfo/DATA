@@ -1,0 +1,2 @@
+incomplete(30),transposase,tail
+intact(130),tail,coat,head,portal,terminase,integrase

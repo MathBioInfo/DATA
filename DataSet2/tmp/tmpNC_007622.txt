@@ -1,0 +1,5 @@
+incomplete(20),recombinase
+questionable(81),integrase
+incomplete(20),integrase
+intact(150),transposase,lysin,tail,head,portal,terminase,integrase
+questionable(75),integrase

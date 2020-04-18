@@ -1,0 +1,36 @@
+{"job_id":"NC_002935","status":"Complete","url":"phaster.ca/submissions/NC_002935","zip":"phaster.ca/submissions/NC_002935.zip","summary":"Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 1 intact prophage regions have been identified.
+
+
+
+
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME(hit_genes_count)    FIRST_MOST_COMMON_PHAGE_NUM      FIRST_MOST_COMMON_PHAGE_PERCENTAGE   GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              38.8Kb                   intact(96)                    integrase,portal,head,capsid,tail            151930-190741            0                        36                      16                               16                               88.8%                            4                                yes                              8                                PHAGE_Coryne_BFK20_NC_009799(9),PHAGE_Gordon_Gsput1_NC_030932(5),PHAGE_Gordon_Ghobes_NC_031028(3),PHAGE_Gordon_Vendetta_NC_030911(3),PHAGE_Gordon_Splinter_NC_030927(3),PHAGE_Gordon_Schwabeltier_NC_031255(1),PHAGE_Mycoba_Thibault_NC_023738(1),PHAGE_Mycoba_Panchino_NC_031281(1),PHAGE_Mycoba_Minerva_NC_026584(1),PHAGE_Gordon_Nymphadora_NC_031061(1),PHAGE_Mycoba_Bipper_NC_031253(1),PHAGE_Rhodoc_ReqiPine5_NC_023722(1),PHAGE_Entero_Ec_ZZ2_NC_031260(1),PHAGE_Mycoba_Phrann_NC_031266(1),PHAGE_Mycoba_Redi_NC_023730(1),PHAGE_Cronob_S13_NC_028773(1),PHAGE_Coryne_P1201_NC_009816(1),PHAGE_Gordon_Nyceirae_NC_031004(1),PHAGE_Clostr_phiCD27_NC_011398(1),PHAGE_Gordon_Eyre_NC_031122(1),PHAGE_Mycoba_Courthouse_NC_023690(1),PHAGE_Mycoba_Wanda_NC_022067(1),PHAGE_Clostr_phiCT9441A_NC_029022(1),PHAGE_Gordon_Hedwig_NC_031099(1),PHAGE_Bacter_Lily_NC_028841(1),PHAGE_Mycoba_Redno2_NC_022066(1),PHAGE_Bacter_Sitara_NC_028854(1),PHAGE_Paenib_Xenia_NC_028837(1),PHAGE_Bacter_Rani_NC_029084(1),PHAGE_Lister_A006_NC_009815(1)   9                                25%                              52.27%                        
+                                  2              17.6Kb                   incomplete(60)                terminase,portal,lysin,head,tail             1863158-1880855          0                        15                      12                               3                                100%                             0                                yes                              6                                PHAGE_Rhodoc_RRH1_NC_016651(7),PHAGE_Gordon_GRU3_NC_030935(6),PHAGE_Gordon_GMA5_NC_030907(6),PHAGE_Gordon_McGonagall_NC_030912(4),PHAGE_Arthro_Decurro_NC_028692(2),PHAGE_Gordon_BetterKatz_NC_031247(1),PHAGE_Arthro_BarretLemon_NC_031252(1),PHAGE_Mycoba_Milly_NC_026598(1),PHAGE_Gordon_GMA1_NC_030902(1),PHAGE_Rhodoc_REQ3_NC_016654(1),PHAGE_Strept_phiBT1_NC_004664(1),PHAGE_Strept_phiC31_NC_001978(1),PHAGE_Strept_TG1_NC_018853(1),PHAGE_Mycoba_Anubis_NC_029018(1),PHAGE_Mycoba_MarQuardt_NC_028798(1),PHAGE_Coryne_P1201_NC_009816(1)   7                                46.66%                           55.23%                        
+"}

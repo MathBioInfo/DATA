@@ -1,0 +1,36 @@
+{"job_id":"NC_002953","status":"Complete","url":"phaster.ca/submissions/NC_002953","zip":"phaster.ca/submissions/NC_002953.zip","summary":"Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 2 intact prophage regions have been identified.
+
+
+
+
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME(hit_genes_count)    FIRST_MOST_COMMON_PHAGE_NUM      FIRST_MOST_COMMON_PHAGE_PERCENTAGE   GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              61.1Kb                   intact(150)                   integrase,terminase,portal,head,tail,lysin,protease     976118-1037291           0                        65                      63                               2                                100%                             0                                yes                              21                               PHAGE_Staphy_Ipla35_NC_011612(32),PHAGE_Staphy_YMC/09/04/R1988_NC_022758(31),PHAGE_Staphy_phi2958PVL_NC_011344(24),PHAGE_Staphy_47_NC_007054(24),PHAGE_Staphy_vB_SauS_phi2_NC_028862(19),PHAGE_Staphy_StauST398_2_NC_021323(18),PHAGE_Staphy_42E_NC_007052(16),PHAGE_Staphy_SMSAP5_NC_019513(16),PHAGE_Staphy_phi7401PVL_NC_020199(14),PHAGE_Staphy_phiJB_NC_028669(8),PHAGE_Staphy_Slt_NC_002661(8),PHAGE_Staphy_tp310_2_NC_009762(8),PHAGE_Staphy_Phi12_NC_004616(7),PHAGE_Staphy_3A_NC_007053(7),PHAGE_Staphy_77_NC_005356(5),PHAGE_Staphy_B166_NC_028859(4),PHAGE_Staphy_DW2_NC_024391(4),PHAGE_Staphy_phiN315_NC_004740(3),PHAGE_Staphy_23MRA_NC_028775(3),PHAGE_Staphy_ROSA_NC_007058(3),PHAGE_Staphy_phiETA3_NC_008799(3),PHAGE_Staphy_phiMR11_NC_010147(3),PHAGE_Staphy_80_NC_030652(2),PHAGE_Staphy_Pvl108_NC_008689(2),PHAGE_Staphy_StauST398_4_NC_023499(2),PHAGE_Staphy_phiPVL_CN125_NC_012784(2),PHAGE_Staphy_phiNM3_NC_008617(2),PHAGE_Staphy_55_NC_007060(2),PHAGE_Staphy_96_NC_007057(1),PHAGE_Staphy_SA13_NC_021863(1),PHAGE_Staphy_187_NC_007047(1),PHAGE_Staphy_phiPV83_NC_002486(1),PHAGE_Bacill_Shanette_NC_028983(1),PHAGE_Staphy_53_NC_007049(1),PHAGE_Staphy_phi5967PVL_NC_019921(1),PHAGE_Bacill_CP_51_NC_025423(1),PHAGE_Staphy_phinm4_NC_028864(1),PHAGE_Staphy_52A_NC_007062(1),PHAGE_Staphy_phiETA2_NC_008798(1),PHAGE_Staphy_EW_NC_007056(1),PHAGE_Staphy_StB27_NC_019914(1),PHAGE_Bacill_JL_NC_028982(1),PHAGE_Staphy_TEM123_NC_017968(1),PHAGE_Staphy_B236_NC_028915(1),PHAGE_Staphy_StauST398_1_NC_021326(1),PHAGE_Staphy_tp310_1_NC_009761(1),PHAGE_Staphy_StauST398_3_NC_021332(1),PHAGE_Staphy_P954_NC_013195(1),PHAGE_Pseudo_VCM_NC_029065(1),PHAGE_Staphy_Ipla88_NC_011614(1),PHAGE_Staphy_69_NC_007048(1),PHAGE_Staphy_StauST398_5_NC_023500(1)   32                               49.23%                           32.72%                        
+                                  2              55.8Kb                   intact(130)                   lysin,tail,head,capsid,portal,terminase,integrase     2015335-2071200          0                        59                      59                               0                                100%                             0                                yes                              12                               PHAGE_Staphy_JS01_NC_021773(34),PHAGE_Staphy_tp310_1_NC_009761(34),PHAGE_Staphy_tp310_3_NC_009763(21),PHAGE_Staphy_phiPVL_CN125_NC_012784(19),PHAGE_Staphy_PVL_NC_002321(17),PHAGE_Staphy_phiPV83_NC_002486(14),PHAGE_Staphy_phiN315_NC_004740(14),PHAGE_Staphy_phiNM3_NC_008617(14),PHAGE_Staphy_13_NC_004617(14),PHAGE_Staphy_Pvl108_NC_008689(13),PHAGE_Staphy_StauST398_4_NC_023499(11),PHAGE_Staphy_77_NC_005356(8),PHAGE_Staphy_23MRA_NC_028775(8),PHAGE_Staphy_phiBU01_NC_026016(6),PHAGE_Staphy_phiSa119_NC_025460(6),PHAGE_Staphy_StauST398_1_NC_021326(5),PHAGE_Staphy_B166_NC_028859(4),PHAGE_Staphy_SA12_NC_021801(4),PHAGE_Staphy_phi5967PVL_NC_019921(3),PHAGE_Staphy_42E_NC_007052(2),PHAGE_Staphy_187_NC_007047(2),PHAGE_Staphy_phi7401PVL_NC_020199(2),PHAGE_Staphy_88_NC_007063(2),PHAGE_Staphy_TEM123_NC_017968(2),PHAGE_Staphy_P954_NC_013195(2),PHAGE_Staphy_YMC/09/04/R1988_NC_022758(1),PHAGE_Strept_315.5_NC_004588(1),PHAGE_Staphy_phi2958PVL_NC_011344(1),PHAGE_Staphy_29_NC_007061(1),PHAGE_Staphy_phiMR25_NC_010808(1),PHAGE_Entero_vB_IME197_NC_028671(1),PHAGE_Strept_T12_NC_028700(1),PHAGE_Staphy_phiETA3_NC_008799(1),PHAGE_Staphy_phiMR11_NC_010147(1),PHAGE_Staphy_69_NC_007048(1)   34                               57.62%                           32.08%                        
+"}

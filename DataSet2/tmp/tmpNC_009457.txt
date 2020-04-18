@@ -1,0 +1,4 @@
+intact(120),transposase,portal,head,virion,tail,plate
+intact(120),tail,plate,virion,head,portal,transposase
+intact(126),NA
+incomplete(60),transposase,tail

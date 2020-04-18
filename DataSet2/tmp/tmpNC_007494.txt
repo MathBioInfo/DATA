@@ -1,0 +1,3 @@
+incomplete(30),head,lysin
+incomplete(50),lysin,tail,head
+incomplete(50),terminase,tail,integrase

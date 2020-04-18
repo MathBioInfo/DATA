@@ -1,0 +1,3 @@
+intact(120),recombinase,terminase,portal,head,plate,tail
+incomplete(60),terminase,tail,head
+incomplete(40),head,tail,lysin

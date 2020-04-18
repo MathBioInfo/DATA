@@ -1,0 +1,2 @@
+incomplete(50),tail,terminase,portal,head
+questionable(90),head,capsid,tail,plate

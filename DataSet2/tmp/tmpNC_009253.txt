@@ -1,0 +1,4 @@
+intact(120),terminase,portal,protease,capsid,tail,plate
+incomplete(40),plate,transposase
+intact(100),tail,capsid,protease,portal,terminase,integrase
+incomplete(20),transposase

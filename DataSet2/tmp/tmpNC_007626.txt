@@ -1,0 +1,6 @@
+incomplete(20),integrase
+questionable(90),integrase,capsid,tail
+incomplete(50),head,terminase,portal
+incomplete(30),integrase
+incomplete(30),head,virion
+incomplete(40),integrase,tail

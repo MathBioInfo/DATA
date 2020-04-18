@@ -1,0 +1,36 @@
+{"job_id":"NC_008740","status":"Complete","url":"phaster.ca/submissions/NC_008740","zip":"phaster.ca/submissions/NC_008740.zip","summary":"Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 0 intact prophage regions have been identified.
+
+
+
+
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME(hit_genes_count)    FIRST_MOST_COMMON_PHAGE_NUM      FIRST_MOST_COMMON_PHAGE_PERCENTAGE   GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              35Kb                     questionable(80)              integrase,transposase                        214428-249449            0                        23                      7                                9                                69.5%                            7                                yes                              5                                PHAGE_Bacill_G_NC_023719(2),PHAGE_Entero_fiAA91_ss_NC_022750(2),PHAGE_Strept_YMC_2011_NC_018285(1),PHAGE_Acinet_IME_AB3_NC_023590(1),PHAGE_Bacill_SP_15_NC_031245(1),PHAGE_Staphy_Ipla35_NC_011612(1),PHAGE_Mycoba_Squirty_NC_026588(1),PHAGE_Mycoba_BigNuz_NC_023692(1),PHAGE_Mycoba_Qyrzula_NC_008204(1),PHAGE_Mycoba_Jolie1_NC_023600(1),PHAGE_Pseudo_YuA_NC_010116(1),PHAGE_Gordon_Wizard_NC_030913(1),PHAGE_Bacill_IEBH_NC_011167(1),PHAGE_Pseudo_MP1412_NC_018282(1),PHAGE_Strept_EJ_1_NC_005294(1),PHAGE_Strept_SMP_NC_008721(1),PHAGE_Bacill_250_NC_029024(1),PHAGE_Mycoba_Rosebush_NC_004684(1),PHAGE_Bacill_PfEFR_5_NC_031055(1),PHAGE_Gordon_Twister6_NC_031052(1),PHAGE_Strept_315.3_NC_004586(1)   2                                8.69%                            53.90%                        
+                                  2              29.4Kb                   questionable(70)              integrase,transposase,portal                 452546-482010            0                        15                      9                                3                                80%                              3                                yes                              7                                PHAGE_Shigel_Sf6_NC_005344(2),PHAGE_Shigel_SfII_NC_021857(2),PHAGE_Phage_Gifsy_1_NC_010392(1),PHAGE_Vibrio_pVp_1_NC_019529(1),PHAGE_Escher_D108_NC_013594(1),PHAGE_Ralsto_RSP15_NC_030948(1),PHAGE_Entero_HK140_NC_019710(1),PHAGE_Salmon_Fels_2_NC_010463(1),PHAGE_Bacill_G_NC_023719(1),PHAGE_Pseudo_F10_NC_007805(1),PHAGE_Burkho_KS14_NC_015273(1),PHAGE_Vibrio_3_NC_028895(1),PHAGE_Entero_Mu_NC_000929(1),PHAGE_Salmon_SPN3UB_NC_019545(1),PHAGE_Escher_phiV10_NC_007804(1),PHAGE_Entero_fiAA91_ss_NC_022750(1),PHAGE_Entero_SfMu_NC_027382(1)   2                                13.33%                           51.91%                        
+"}

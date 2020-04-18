@@ -1,0 +1,4 @@
+incomplete(10),NA
+incomplete(30),plate
+incomplete(40),capsid,portal,terminase
+questionable(70),transposase,integrase

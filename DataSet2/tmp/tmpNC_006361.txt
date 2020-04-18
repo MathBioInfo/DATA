@@ -1,0 +1,4 @@
+questionable(80),head,capsid,tail,lysin
+questionable(90),head,transposase,tail,lysin
+intact(110),lysin,tail,capsid,transposase,portal,terminase
+incomplete(20),head

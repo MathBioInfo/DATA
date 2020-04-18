@@ -1,0 +1,3 @@
+incomplete(50),lysin,capsid,portal,integrase
+incomplete(40),head,integrase
+incomplete(40),integrase,head

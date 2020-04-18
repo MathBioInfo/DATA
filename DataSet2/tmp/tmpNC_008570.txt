@@ -1,0 +1,3 @@
+incomplete(20),protease
+incomplete(10),NA
+incomplete(10),NA

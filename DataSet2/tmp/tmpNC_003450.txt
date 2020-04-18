@@ -1,0 +1,2 @@
+incomplete(50),integrase,transposase,lysin
+incomplete(20),tail

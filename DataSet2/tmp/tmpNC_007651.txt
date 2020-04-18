@@ -1,0 +1,2 @@
+questionable(90),transposase,capsid,lysin,integrase
+incomplete(50),integrase,tail,transposase

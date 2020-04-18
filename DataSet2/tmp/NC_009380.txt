@@ -1,0 +1,35 @@
+{"job_id":"NC_009380","status":"Complete","url":"phaster.ca/submissions/NC_009380","zip":"phaster.ca/submissions/NC_009380.zip","summary":"Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 0 intact prophage regions have been identified.
+
+
+
+
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME(hit_genes_count)    FIRST_MOST_COMMON_PHAGE_NUM      FIRST_MOST_COMMON_PHAGE_PERCENTAGE   GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              42.8Kb                   incomplete(50)                portal,terminase                             588277-631102            0                        43                      33                               9                                97.6%                            1                                yes                              12                               PHAGE_Strept_Nanodon_NC_031078(16),PHAGE_Strept_Zemlya_NC_021339(14),PHAGE_Strept_Lannister_NC_028827(13),PHAGE_Strept_R4_NC_019414(12),PHAGE_Strept_Amela_NC_028904(12),PHAGE_Strept_Caliburn_NC_028892(10),PHAGE_Strept_phiHau3_NC_018836(9),PHAGE_Strept_Lika_NC_021298(9),PHAGE_Strept_Sujidade_NC_021304(8),PHAGE_Strept_Izzy_NC_028976(7),PHAGE_Bacill_SP_15_NC_031245(1),PHAGE_Staphy_96_NC_007057(1),PHAGE_Gordon_Yvonnetastic_NC_031230(1),PHAGE_Pseudo_MD8_NC_031091(1),PHAGE_Lactob_CL2_NC_028835(1),PHAGE_Lactob_Ld17_NC_025420(1),PHAGE_Mycoba_Cerasum_NC_026604(1),PHAGE_Mycoba_Velveteen_NC_022060(1),PHAGE_Mycoba_BuzzLyseyear_NC_026593(1),PHAGE_Ralsto_RSB3_NC_022917(1),PHAGE_Pseudo_LKA1_NC_009936(1),PHAGE_Gordon_Smoothie_NC_030696(1),PHAGE_Pseudo_RIO_1_NC_021300(1),PHAGE_Bacill_AR9_NC_031039(1),PHAGE_Lactob_Ld25A_NC_025415(1),PHAGE_Mycoba_Fruitloop_NC_011288(1),PHAGE_Mycoba_MiaZeal_NC_028953(1),PHAGE_Gordon_OneUp_NC_030917(1),PHAGE_Pseudo_phi_2_NC_013638(1),PHAGE_Bacill_0305phi8_36_NC_009760(1),PHAGE_Mycoba_Courthouse_NC_023690(1),PHAGE_Lactob_CL1_NC_028888(1),PHAGE_Staphy_StauST398_3_NC_021332(1),PHAGE_Burkho_JG068_NC_022916(1),PHAGE_Mycoba_PopTart_NC_028961(1),PHAGE_Staphy_StauST398_5_NC_023500(1),PHAGE_Lactob_iLp1308_NC_028911(1)   16                               37.2%                            64.02%                        
+"}

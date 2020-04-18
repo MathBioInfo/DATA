@@ -1,0 +1,6 @@
+intact(138),integrase,terminase,tail,lysin
+intact(133),integrase,terminase,tail,lysin
+intact(150),integrase,terminase,capsid,tail
+intact(150),integrase,recombinase,terminase,plate,lysin
+intact(125),integrase,protease
+intact(130),tail,coat,head,portal,terminase,recombinase,integrase

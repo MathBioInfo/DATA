@@ -1,0 +1,5 @@
+questionable(70),transposase,integrase
+questionable(70),integrase,transposase,tail,plate
+intact(150),transposase,lysin,capsid,tail
+incomplete(10),NA
+incomplete(60),head,integrase,transposase

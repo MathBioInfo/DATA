@@ -1,0 +1,4 @@
+incomplete(30),recombinase,integrase
+incomplete(60),terminase,portal,head,capsid,tail
+incomplete(10),NA
+incomplete(20),tail

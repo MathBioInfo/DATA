@@ -1,0 +1,2 @@
+intact(150),integrase,terminase,portal,head,tail,lysin,protease
+intact(130),lysin,tail,head,capsid,portal,terminase,integrase

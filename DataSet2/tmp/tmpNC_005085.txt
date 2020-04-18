@@ -1,0 +1,4 @@
+intact(120),tail,plate,lysin
+questionable(80),tail
+questionable(87),tail,lysin
+incomplete(20),transposase

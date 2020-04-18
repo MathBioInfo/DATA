@@ -1,0 +1,4 @@
+incomplete(50),transposase,tail,integrase
+incomplete(60),transposase,tail
+incomplete(60),tail,plate,transposase
+questionable(70),integrase,tail,transposase

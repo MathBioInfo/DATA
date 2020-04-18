@@ -1,0 +1,3 @@
+questionable(80),integrase,terminase,coat,lysin
+questionable(80),lysin,head,tail,terminase,integrase
+incomplete(10),NA

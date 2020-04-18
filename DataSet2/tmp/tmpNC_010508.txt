@@ -1,0 +1,2 @@
+intact(114),recombinase,tail
+incomplete(60),integrase,capsid,head,portal,terminase

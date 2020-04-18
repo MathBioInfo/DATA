@@ -1,0 +1,9 @@
+questionable(80),tail,capsid,integrase
+incomplete(40),integrase,virion,fiber
+intact(128),coat
+questionable(80),tail,plate,capsid,head
+questionable(90),integrase,portal,terminase,lysin,head,tail
+intact(150),tail,plate,capsid,terminase,lysin,integrase
+incomplete(60),tail,plate,integrase
+incomplete(30),transposase,head
+incomplete(10),NA

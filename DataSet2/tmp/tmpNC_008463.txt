@@ -1,0 +1,2 @@
+intact(150),plate,tail,head
+intact(117),integrase,coat

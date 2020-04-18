@@ -1,0 +1,6 @@
+intact(150),tail,plate,lysin,head,terminase,capsid,portal,recombinase,integrase
+intact(150),integrase,lysis,head,capsid,tail
+intact(150),lysis,envelope,head,capsid,tail,fiber
+intact(120),integrase,tail,head,injection,coat,portal,terminase
+intact(150),tail,plate,head,capsid,portal,terminase,integrase
+intact(150),integrase,lysin,lysis,terminase,portal,protease,tail

@@ -1,0 +1,3 @@
+incomplete(10),NA
+incomplete(30),plate,integrase
+incomplete(40),tail,recombinase

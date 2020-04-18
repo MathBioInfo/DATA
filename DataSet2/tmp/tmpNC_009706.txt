@@ -1,0 +1,7 @@
+incomplete(60),integrase,terminase,tail,transposase
+incomplete(50),tail
+questionable(80),terminase,head,tail
+incomplete(50),terminase
+incomplete(40),tail,head,portal
+incomplete(60),integrase,transposase
+intact(130),recombinase,capsid,lysin,portal,tail,head,terminase

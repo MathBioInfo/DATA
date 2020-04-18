@@ -1,0 +1,35 @@
+{"job_id":"NC_008322","status":"Complete","url":"phaster.ca/submissions/NC_008322","zip":"phaster.ca/submissions/NC_008322.zip","summary":"Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 1 intact prophage regions have been identified.
+
+
+
+
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME(hit_genes_count)    FIRST_MOST_COMMON_PHAGE_NUM      FIRST_MOST_COMMON_PHAGE_PERCENTAGE   GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              55.5Kb                   intact(150)                   portal,terminase,capsid,head,tail,integrase     802729-858302            1                        51                      36                               14                               98%                              1                                yes                              14                               PHAGE_Aeromo_phiO18P_NC_009542(19),PHAGE_Vibrio_K139_NC_003313(14),PHAGE_Vibrio_8_NC_022747(13),PHAGE_Pseudo_phi3_NC_030940(13),PHAGE_Pasteu_F108_NC_008193(12),PHAGE_Haemop_HP2_NC_003315(12),PHAGE_Haemop_HP1_NC_001697(12),PHAGE_Pseudo_H101_NC_029094(2),PHAGE_Vibrio_VP882_NC_009016(2),PHAGE_Entero_PsP3_NC_005340(2),PHAGE_Salmon_SEN1_NC_029003(2),PHAGE_Entero_mEp460_NC_019716(2),PHAGE_Salmon_Fels_2_NC_010463(2),PHAGE_Pseudo_14_1_NC_011703(1),PHAGE_Synech_S_PM2_NC_006820(1),PHAGE_Rhodof_P26218_NC_029061(1),PHAGE_Pseudo_PMG1_NC_016765(1),PHAGE_Vibrio_VBP47_NC_020848(1),PHAGE_Shewan_1/44_NC_025463(1),PHAGE_Burkho_BcepIL02_NC_012743(1),PHAGE_Vibrio_VBM1_NC_020850(1),PHAGE_Burkho_phi52237_NC_007145(1),PHAGE_Pseudo_phiPSA1_NC_024365(1),PHAGE_Bacill_vB_BhaS_171_NC_030904(1),PHAGE_Pseudo_phiCTX_NC_003278(1),PHAGE_Salmon_SEN4_NC_029015(1),PHAGE_Erwini_ENT90_NC_019932(1),PHAGE_Salmon_PVP_SE1_NC_016071(1),PHAGE_Pseudo_PM2_NC_000867(1),PHAGE_Cronob_vB_CsaM_GAP31_NC_019400(1),PHAGE_Entero_4MG_NC_022968(1),PHAGE_Vibrio_vB_VpaM_MAR_NC_019722(1),PHAGE_Pseudo_H103_NC_028819(1),PHAGE_Burkho_phiE12_2_NC_009236(1),PHAGE_Salmon_SEN5_NC_028701(1),PHAGE_Prochl_Syn1_NC_015288(1),PHAGE_Vibrio_VP58.5_NC_027981(1),PHAGE_Cyanop_S_RIM32_NC_031235(1),PHAGE_Entero_186_NC_001317(1),PHAGE_Burkho_DC1_NC_018452(1),PHAGE_Pseudo_pYD6_A_NC_020849(1),PHAGE_Burkho_BcepMigl_NC_019917(1),PHAGE_Salmon_SJ46_NC_031129(1),PHAGE_Synech_S_WAM1_NC_031944(1),PHAGE_Vibrio_VBP32_NC_020868(1),PHAGE_Burkho_AH2_NC_018283(1),PHAGE_Thalas_BA3_NC_009990(1),PHAGE_Shigel_Stx_NC_029120(1),PHAGE_Burkho_phiE202_NC_009234(1)   20                               37.25%                           48.27%                        
+"}

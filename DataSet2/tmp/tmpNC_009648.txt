@@ -1,0 +1,3 @@
+questionable(80),lysin,terminase,tail
+incomplete(20),lysis
+intact(150),protease,tail,plate,lysin,capsid,terminase,portal

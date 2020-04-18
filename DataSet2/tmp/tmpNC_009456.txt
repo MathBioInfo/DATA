@@ -1,0 +1,2 @@
+intact(126),NA
+intact(150),plate,tail,lysin,head,terminase,capsid,integrase

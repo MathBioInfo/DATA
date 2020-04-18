@@ -1,0 +1,6 @@
+questionable(85),capsid
+incomplete(50),tail,lysin
+intact(100),recombinase,portal,capsid,tail,plate
+intact(110),lysin
+intact(150),tail,head,capsid,portal,terminase,integrase
+intact(140),lysin,tail,head,portal,integrase,virion

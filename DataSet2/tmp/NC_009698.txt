@@ -1,0 +1,35 @@
+{"job_id":"NC_009698","status":"Complete","url":"phaster.ca/submissions/NC_009698","zip":"phaster.ca/submissions/NC_009698.zip","summary":"Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 0 intact prophage regions have been identified.
+
+
+
+
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME(hit_genes_count)    FIRST_MOST_COMMON_PHAGE_NUM      FIRST_MOST_COMMON_PHAGE_PERCENTAGE   GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              21.8Kb                   incomplete(10)                NA                                           3084526-3106424          1                        26                      23                               3                                100%                             0                                no                               6                                PHAGE_Clostr_phiCTC2A_NC_030949(17),PHAGE_Clostr_phiCT19406A_NC_030950(17),PHAGE_Bacill_AR9_NC_031039(6),PHAGE_Clostr_phiCTP1_NC_014457(5),PHAGE_Strept_Dp_1_NC_015274(3),PHAGE_Clostr_phiCT453B_NC_029004(2),PHAGE_Clostr_phiCT19406C_NC_029006(2),PHAGE_Clostr_phiCD119_NC_007917(1),PHAGE_Strept_SV1_NC_018848(1),PHAGE_Bacill_BtCS33_NC_018085(1),PHAGE_Strept_Sfi21_NC_000872(1),PHAGE_Clostr_phiCTC2B_NC_030951(1),PHAGE_Staphy_SpaA1_NC_018277(1),PHAGE_Lactob_jlb1_NC_024206(1),PHAGE_Staphy_PT1028_NC_007045(1),PHAGE_Bacill_Pavlov_NC_028782(1),PHAGE_Bacill_IEBH_NC_011167(1),PHAGE_Staphy_StB12_NC_020490(1),PHAGE_Clostr_phiCDHM19_NC_028996(1),PHAGE_Clostr_phiCT9441A_NC_029022(1),PHAGE_Clostr_phiCT19406B_NC_030947(1),PHAGE_Bacill_250_NC_029024(1),PHAGE_Bacill_PfEFR_5_NC_031055(1),PHAGE_Bacill_phiCM3_NC_023599(1),PHAGE_Pseudo_JBD44_NC_030929(1),PHAGE_Clostr_vB_CpeS_CP51_NC_021325(1)   17                               65.38%                           26.63%                        
+"}

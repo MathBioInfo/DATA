@@ -1,0 +1,5 @@
+questionable(70),terminase,head,capsid,virion,tail
+intact(110),terminase,portal,head,capsid,tail
+intact(150),tail,protease,plate,capsid,terminase
+incomplete(50),tail,capsid,portal,terminase
+incomplete(50),head,portal,terminase

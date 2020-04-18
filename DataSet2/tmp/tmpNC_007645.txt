@@ -1,0 +1,4 @@
+questionable(75),tail,capsid
+intact(110),tail,head,capsid,terminase
+intact(140),virion,tail,head,portal,terminase
+questionable(75),capsid,tail

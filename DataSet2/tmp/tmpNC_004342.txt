@@ -1,0 +1,5 @@
+incomplete(40),plate,tail
+incomplete(10),NA
+incomplete(10),NA
+incomplete(10),NA
+incomplete(50),transposase

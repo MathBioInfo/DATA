@@ -1,0 +1,2 @@
+intact(130),lysin,capsid,tail,head,protease,portal,terminase
+incomplete(30),integrase

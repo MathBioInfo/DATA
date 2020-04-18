@@ -1,0 +1,4 @@
+incomplete(50),tail,transposase
+incomplete(20),integrase
+intact(150),integrase,virion,tail,head,capsid,terminase,recombinase
+incomplete(60),transposase

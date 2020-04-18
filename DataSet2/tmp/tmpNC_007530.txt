@@ -1,0 +1,6 @@
+incomplete(60),plate,head
+incomplete(40),tail,coat
+incomplete(10),NA
+questionable(80),tail,capsid,head,portal,integrase
+questionable(70),lysin,tail,portal,head
+questionable(80),terminase,portal,head,capsid,integrase

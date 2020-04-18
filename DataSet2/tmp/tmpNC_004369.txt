@@ -1,0 +1,2 @@
+incomplete(10),NA
+intact(150),transposase

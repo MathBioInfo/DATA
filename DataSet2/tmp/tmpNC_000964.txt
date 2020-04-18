@@ -1,0 +1,4 @@
+intact(110),protease,portal,head,capsid,tail,plate
+incomplete(10),NA
+intact(149),coat,recombinase
+incomplete(60),integrase,capsid,terminase

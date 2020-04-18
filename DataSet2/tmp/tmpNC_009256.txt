@@ -1,0 +1,6 @@
+intact(110),integrase,terminase,coat,tail,transposase
+incomplete(40),transposase,tail
+intact(150),tail,plate,head,virion,portal,transposase
+incomplete(30),tail,transposase
+incomplete(30),tail
+incomplete(50),lysin,transposase,head

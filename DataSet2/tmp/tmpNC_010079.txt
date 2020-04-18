@@ -1,0 +1,3 @@
+incomplete(20),capsid
+intact(150),tail,capsid,protease,portal,terminase,integrase
+intact(100),tail,head,protease,portal,terminase,integrase

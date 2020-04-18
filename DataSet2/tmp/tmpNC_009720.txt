@@ -1,0 +1,5 @@
+questionable(90),portal,head,capsid,tail
+questionable(80),terminase,portal,head,tail,plate
+incomplete(10),NA
+intact(150),terminase,portal,head,tail,capsid,transposase
+intact(140),tail,plate,head,virion,transposase

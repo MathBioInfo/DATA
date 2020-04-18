@@ -1,0 +1,2 @@
+intact(130),transposase,terminase,capsid,tail,lysin
+questionable(85),lysin,integrase

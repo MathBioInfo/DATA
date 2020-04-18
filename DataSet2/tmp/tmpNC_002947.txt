@@ -1,0 +1,3 @@
+intact(130),integrase,terminase,head,capsid,tail
+intact(150),recombinase,terminase,portal,head,plate,tail
+intact(140),tail,plate,capsid,terminase,integrase

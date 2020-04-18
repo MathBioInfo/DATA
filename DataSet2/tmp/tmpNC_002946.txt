@@ -1,0 +1,4 @@
+intact(110),integrase,terminase,virion,tail,plate
+incomplete(40),plate,transposase
+questionable(90),virion,portal,terminase,transposase
+questionable(70),integrase,transposase,plate

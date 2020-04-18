@@ -1,0 +1,2 @@
+intact(96),integrase,portal,head,capsid,tail
+incomplete(60),terminase,portal,lysin,head,tail

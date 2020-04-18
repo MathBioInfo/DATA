@@ -1,0 +1,3 @@
+questionable(87),integrase,protease
+intact(150),tail,integrase,terminase,portal,head,capsid
+intact(116),lysin,tail,head,portal,terminase,integrase

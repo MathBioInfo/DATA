@@ -1,0 +1,3 @@
+questionable(70),integrase,recombinase,transposase
+intact(110),tail,lysin,virion
+incomplete(60),head,terminase,transposase

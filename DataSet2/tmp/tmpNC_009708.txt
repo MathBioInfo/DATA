@@ -1,0 +1,2 @@
+intact(150),tail,plate,head,portal,terminase,lysin,integrase
+incomplete(20),integrase

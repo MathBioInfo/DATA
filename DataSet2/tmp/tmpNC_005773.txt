@@ -1,0 +1,7 @@
+incomplete(50),tail,integrase
+incomplete(20),tail
+incomplete(50),tail,transposase
+incomplete(40),tail,integrase
+incomplete(30),coat,recombinase
+incomplete(30),plate,integrase
+questionable(75),tail,lysin,integrase
